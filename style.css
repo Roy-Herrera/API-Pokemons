@@ -1,17 +1,15 @@
 body {
     text-align: center;
-    background-color: aqua;
-    color: white;
-}
-h2 {
-    color: black;
+    font-family: Arial;
+    background-image: url(https://w0.peakpx.com/wallpaper/912/4/HD-wallpaper-starry-black-sky-indie.jpg);
+    background-size: 100%;
+    color: aqua;
 }
 .card {
-    border: solid black 1px;
+    border: solid blue 1px;
     border-radius: 20px;
     gap: 15px;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0QaVduaBl-hTIwgcD5kdnBm0w_-Iorrz3w&usqp=CAU);
-    background-size: 100%;
+    background-color: transparent;
     font-weight: bold;
 }
 img {
