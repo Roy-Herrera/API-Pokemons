@@ -6,6 +6,7 @@ body {
     border-radius: 20px;
     gap: 15px;
     background-color: cyan;
+    font-weight: bold;
 }
 img {
     width: 15vw;
