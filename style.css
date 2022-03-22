@@ -1,11 +1,17 @@
 body {
     text-align: center;
+    background-color: aqua;
+    color: white;
+}
+h2 {
+    color: black;
 }
 .card {
     border: solid black 1px;
     border-radius: 20px;
     gap: 15px;
-    background-color: cyan;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0QaVduaBl-hTIwgcD5kdnBm0w_-Iorrz3w&usqp=CAU);
+    background-size: 100%;
     font-weight: bold;
 }
 img {
