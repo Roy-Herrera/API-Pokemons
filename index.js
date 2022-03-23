@@ -39,7 +39,7 @@ function renderHTML(pokemonesLista) {
                 </div>
                 <div class="card-footer bg-transparent border-dark">
                     <p class="card-text">Nombre: ${p.name}</p>
-                    <small class="card-text">Habilidades: ${abilidades.toString().split(",").join(", ")}</small>
+                    <small class="card-text">Habilidades: ${abilidades.toString().split(",").join(", ")}</small> <br>
                     <small class="card-text">Experiencia: ${p.base_experience}</small>
                 </div>
             </div>
